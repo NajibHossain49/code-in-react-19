@@ -55,10 +55,6 @@ npm run dev   # or yarn dev
 
 ---
 
-Here's the updated project structure with the **router** included:  
-
----
-
 ## 📂 Project Structure  
 
 Here's an overview of the project directory:  
